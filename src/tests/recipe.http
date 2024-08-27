@@ -1,1 +1,19 @@
-POST http://localhost:5000/api/recipes/
+# POST http://localhost:5000/api/recipes/
+# Content-Type: application/json
+
+# {
+#     "name": "samgyetang",
+#     "description": "dans du bouillon avec du riz"
+# }
+
+# GET http://localhost:5000/api/recipes/
+
+# PUT http://localhost:5000/api/recipes/2
+# Content-Type: application/json
+
+# {
+#     "name": "dak gang jeong",
+#     "description": "pouler frI cOreEN"
+# }
+
+DELETE http://localhost:5000/api/recipes/2
